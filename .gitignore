@@ -1,0 +1,52 @@
+# Ignore build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.Generated.cs
+
+# Logs
+*.log
+*.tlog
+*.log.*
+*.cache
+
+# NuGet packages
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+
+# Visual Studio Code files
+.vscode/
+
+# Visual Studio files
+.vs/
+*.vcxproj.user
+*.vcxproj.filters
+
+# Rider project settings
+.idea/
+
+# Resharper files
+*.DotSettings.user
+
+# macOS
+.DS_Store
+
+# Windows thumbnail cache
+Thumbs.db
+
+# Rider settings
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
